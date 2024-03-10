@@ -1,6 +1,6 @@
 Pt
 4              ! lattice parameter/angstrom
 100000          ! Steps
-72 72 72       ! box size/angstrom
+40 40 40       ! box size/angstrom
 800            ! temperature/K
-1000           ！pressure/Pa
+10000           ！pressure/Pa

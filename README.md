@@ -1,6 +1,9 @@
+> **Note**  
+> This is a demo. Formal version will be released in the future
+
 KMC simulations for the Pt catalyst under CO gas conditions.
 
-There are two versions that can be installed in linux and window environments respectively.
+There is a demo that can be executed in linux environment.
 
 ini.xyz is a customizable input structure file, where initial structure can be a nanoparticles with any sizes and shapes.
 
